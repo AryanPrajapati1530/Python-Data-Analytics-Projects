@@ -1,12 +1,12 @@
 # 🍷 Wine Quality Analysis Using Python
 
-## 📖 Project Overview
+## Project Overview
 
 This project focuses on the Exploratory Data Analysis (EDA) of the Red Wine Quality Dataset using Python. The objective is to analyze the physicochemical properties of red wine and identify the factors that influence wine quality. The project demonstrates data cleaning, visualization, statistical analysis, and insight generation techniques commonly used in Data Analytics and Data Science.
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 * Understand the structure and characteristics of the dataset.
 * Perform data cleaning and preprocessing.
@@ -17,7 +17,7 @@ This project focuses on the Exploratory Data Analysis (EDA) of the Red Wine Qual
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 
 The dataset contains physicochemical properties of red wine samples.
 
@@ -41,7 +41,7 @@ The dataset contains physicochemical properties of red wine samples.
 
 ---
 
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 
 * Python
 * Pandas
@@ -52,7 +52,7 @@ The dataset contains physicochemical properties of red wine samples.
 
 ---
 
-## 🔍 Data Analysis Workflow
+## Data Analysis Workflow
 
 ### 1. Data Collection and Loading
 
@@ -98,7 +98,7 @@ The dataset contains physicochemical properties of red wine samples.
 
 ---
 
-# 📊 Univariate Analysis (UD)
+# Univariate Analysis (UD)
 
 Univariate Data Analysis focuses on analyzing a single variable independently.
 
@@ -119,7 +119,7 @@ Analysis of the "Quality" variable to understand the frequency distribution of w
 
 ---
 
-# 📈 Bivariate Analysis (BD)
+# Bivariate Analysis (BD)
 
 Bivariate Data Analysis studies the relationship between two variables.
 
@@ -149,7 +149,7 @@ Higher alcohol content tends to be associated with better quality wines.
 
 ---
 
-# 📉 Multivariate Analysis (MD)
+# Multivariate Analysis (MD)
 
 Multivariate Data Analysis examines relationships among multiple variables simultaneously.
 
@@ -180,7 +180,7 @@ Multiple physicochemical properties collectively influence wine quality.
 
 ---
 
-## 🧹 Data Cleaning Techniques Applied
+## Data Cleaning Techniques Applied
 
 * Missing Value Analysis
 * Duplicate Record Detection
@@ -197,7 +197,7 @@ Multiple physicochemical properties collectively influence wine quality.
 
 ---
 
-## 📌 Key Findings
+## Key Findings
 
 * Alcohol shows a positive relationship with wine quality.
 * Volatile acidity negatively impacts quality.
@@ -207,7 +207,7 @@ Multiple physicochemical properties collectively influence wine quality.
 
 ---
 
-## 🚀 Additional Insights
+## Additional Insights
 
 Beyond the standard EDA process, additional analysis was conducted to identify:
 
@@ -220,7 +220,7 @@ Beyond the standard EDA process, additional analysis was conducted to identify:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 Wine-Quality-Analysis/
 
@@ -246,7 +246,7 @@ Wine-Quality-Analysis/
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 Through this project, the following concepts were applied:
 
@@ -260,7 +260,7 @@ Through this project, the following concepts were applied:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Aryan Prajapati**
 
